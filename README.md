@@ -1,0 +1,1 @@
+Este es un repositorio con el fin de practicar python desarollando codigo basico y agilizando los comandos git para la actualizacion de los repositorios
